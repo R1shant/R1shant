@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @R1shant
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning PHP, Javascript and Pyhton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning PHP, Javascript, React and React Native
+- 📫 How to reach me:
+  - Email: rishantkhemai@gmail.com
+  - LinkedIn: 
 
 <!---
 R1shant/R1shant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
