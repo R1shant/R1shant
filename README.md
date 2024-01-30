@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R1shant
 - 👀 I’m interested in coding
-- Student at ROC Midden Nederland
+- 🏫 Student at ROC Midden Nederland
 - 🌱 I’m currently learning PHP, Javascript, React and React Native
 - 📫 How to reach me:
   - Email: rishantkhemai@gmail.com
