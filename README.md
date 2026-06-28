@@ -9,6 +9,7 @@ I'm a passionate developer currently studying Software Development at **Avans Ho
 - **Python**
 - **JavaScript**, **HTML**, **CSS**
 - **SQL**
+- **C#**
 
 ### 🎨 Front-End Tools
 - **TailwindCSS**
